@@ -1,8 +1,8 @@
-# Arc-Dark
+# Arc-Darker
 
 ## Screenshots
 
-![Arc-Dark](screenshot.png)
+![Arc-Darker](screenshot.png)
 
 ## Requirements
 The theme needs [spicetify](https://github.com/khanhas/spicetify-cli) in order to be installed.
@@ -12,9 +12,9 @@ The theme needs [spicetify](https://github.com/khanhas/spicetify-cli) in order t
 Just run these commands on a terminal:
 
 ```bash
-git clone https://github.com/meliot/Arc-Dark-Spotify-Theme
-mv Arc-Dark-Spotify-Theme ~/.config/spicetify/Themes/
-spicetify config current_theme Arc-Dark-Spotify-Theme
+git clone https://github.com/Chrisbattarbee/Arc-Darker-Spotify-Theme/
+mv Arc-Darker-Spotify-Theme ~/.config/spicetify/Themes/
+spicetify config current_theme Arc-Darker-Spotify-Theme
 spicetify apply
 ```
 
